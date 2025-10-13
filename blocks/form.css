@@ -44,7 +44,7 @@
   justify-content: center;
   gap: 12px;
   margin: 0;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -55,8 +55,9 @@
   width: 100%;
   padding: 20px 0;
   margin-bottom: 32px;
+  margin-top: 32px;
   border-radius: 4px;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-size: 20px;
   line-height: 20px;
@@ -70,10 +71,9 @@
   transition: background-color 250ms ease-in-out, transform 120ms ease;
 }
 
-.form__button:hover,
-.form__button:focus {
+.form__button:hover {
   background-color: #3f96f3;
-  transform: translateY(-1px);
+  transition: background-color 0.5s;
 }
 
 .form__button:active {

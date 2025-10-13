@@ -13,4 +13,6 @@ This is the second project of the fulltime Software Engineering program at Tripl
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Adding more styles and possibly cleaning up some of the margins.
+- Adding Times New Roman or another secondary font to Noto Serif font families instead of Arial
+- Reoragnizing Index.css alphabetically

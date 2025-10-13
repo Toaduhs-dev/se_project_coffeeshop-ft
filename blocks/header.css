@@ -22,12 +22,12 @@
   color: #3f96f3;
   font-style: italic;
   display: block;
-  font-family: "Noto Serif", "Times New Roman", serif;
+  font-family: "Noto Serif", Arial, sans-serif;
   font-weight: normal;
 }
 
 .header__description {
-  font-family: "Noto Serif", "Times New Roman", serif;
+  font-family: "Noto Serif", Arial, serif;
   max-width: 683px;
   font-size: 20px;
   line-height: 30px;

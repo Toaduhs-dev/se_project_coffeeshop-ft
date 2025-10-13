@@ -5,6 +5,7 @@
   margin-top: 100px;
   margin-bottom: 100px;
   background-image: url(../images/background_menu.svg);
+  background-color: #fff;
 }
 
 .menu__title {
